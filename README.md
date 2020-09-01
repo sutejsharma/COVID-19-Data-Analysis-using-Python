@@ -1,4 +1,8 @@
 # COVID-19-Data-Analysis-using-Python
+
+By the end of this project, it is demonstrated how to preprocess and merge datasets to calculate needed measures and prepare them for an Analysis. We are going to work with a COVID19 dataset, published by John Hopkins University, which consist of the data related to cumulative number of confirmed cases, per day, in each Country. Also we have another dataset consisting of various life factors, scored by the people living in each country around the globe. We are going to merge these two datasets to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.
+
+
 Extracting, Manipulating, Defining Metrics and then analyzing global COVID-19 data
 
 Project Structure: Project on COVID19 Data Analysis using Python is divided into following tasks:
